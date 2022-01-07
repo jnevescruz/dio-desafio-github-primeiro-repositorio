@@ -1,30 +1,32 @@
-Meu nome È Jonas tenho quase 40anos,
-No inÌcio da quarentena em 2019, fiquei desempregado.
+Meu nome √© Jonas, nasci em 11/04/1982.
+No in√≠cio da quarentena em 2019, fiquei desempregado.
 Porem foi um momento que fiz um autoanalise.
-E verifiquei que n„o era feliz na carreia no qual atuava.
-percebi que tenho uma inclinaÁ„o a ·rea DEV.
+E verifiquei que n√£o era feliz na carreia no qual atuava.
+percebi que tenho uma inclina√ß√£o a √°rea DEV.
 
-N„o tenho experiÍncia na ·rea FEV.
-J· trabalhei a 10 anos atr·s com manutenÁ„o de micro e impressoras,
-mas com a falsa ilus„o de mudar de ·rea para ganhar mais, porÈm sem nenhum estÌmulo interpessoal exerci por quase 10 anos frustradamente a carreira de adv.
+N√£o tenho experi√™ncia na √°rea FEV.
+J√° trabalhei a 10 anos atr√°s com manuten√ß√£o de micro e impressoras,
+mas com a falsa ilus√£o de mudar de √°rea para ganhar mais, por√©m sem nenhum est√≠mulo interpessoal exerci por quase 10 anos frustradamente a carreira de adv.
 
-Estou me esforÁando para entrar na ·rea Dev, ate conseguir a oportunidade desejada.
+Estou me esfor√ßando para entrar na √°rea Dev, ate conseguir a oportunidade desejada.
 
-Cursos gratuitos que j· fiz ou estou fazendo.
-    ï Java scripts, css, html pelo youtube na p·gina curso em vÌdeo.
-    ï CC50: IntroduÁ„o ‡ CiÍncia da ComputaÁ„o de Harvard, no Brasil.
-    ï Logica de ProgramaÁ„o com Java Script pelo curso 4Linux.
-    ï Os cursos gratuitos disponibilizados pelo google atravÈs do aplicativo grasshopper.
+Cursos gratuitos que j√° fiz ou estou fazendo.
+    ‚Ä¢ Java scripts, css, html pelo youtube na p√°gina curso em v√≠deo.
+    ‚Ä¢ CC50: Introdu√ß√£o √† Ci√™ncia da Computa√ß√£o de Harvard, no Brasil.
+    ‚Ä¢ Logica de Programa√ß√£o com Java Script pelo curso 4Linux.
+    ‚Ä¢ Os cursos gratuitos disponibilizados pelo google atrav√©s do aplicativo grasshopper.
 
-E graÁas a DIO - https://web.dio.me/home
-Estou fazendo dois Bootcamp -  MRV Fullstack Developer e Inter Frontend Developer
+E gra√ßas a DIO - https://web.dio.me/home
+Estou fazendo tr√™s Bootcamp -  MRV Fullstack Developer
+                            - Inter Frontend Developer
+                            - Eduzz Fullstack Developer
 
- No momento j· aprendi atravÈs dos Bootcamp.
-    ï LÛgica de programaÁ„o Essencial
-    ï Aprenda o que s„o Estruturas de dados e algoritimos
-    ï IntroduÁ„o ao Git/Github
-    ï Projeto ·geis com Scrum
-    ï 06/01/2022 Criando seu primeiro Repositorio No GitHub no qual estou enviando este arquivo.
+ No momento j√° aprendi atrav√©s dos Bootcamp.
+    ‚Ä¢ L√≥gica de programa√ß√£o Essencial
+    ‚Ä¢ Aprenda o que s√£o Estruturas de dados e algoritimos
+    ‚Ä¢ Introdu√ß√£o ao Git/Github
+    ‚Ä¢ Projeto √°geis com Scrum
+    ‚Ä¢ 06/01/2022 Criando seu primeiro Repositorio No GitHub no qual estou enviando este arquivo.
 
 
 

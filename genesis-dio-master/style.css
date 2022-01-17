@@ -1,0 +1,94 @@
+body {
+    margin: 0;
+    background-color: rgb(120, 175, 157);
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+}
+p{
+    font-size: 80px;
+    text-align: justify;
+}
+
+.main-game {
+    height: 50vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.genius {
+    display: grid;
+    grid-template-areas: 'verde vermelho'
+    'amarelo azul' 'orange purple';
+    grid-gap: 1px;
+    border: 20px solid black;
+    background-color: black;
+    width: 700px;
+    height:800px;
+}
+
+.blue {
+    grid-area: azul;
+    background-color: blue;
+    grid-column-start:1;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    border-radius: 20px;
+    
+}
+
+.red {
+    grid-area: vermelho;
+    background-color: red;
+    grid-column-start: 5;
+    grid-column-end: 8;
+    grid-row-start: 1;
+    grid-row-end: 3;
+   border-radius: 20px;
+}
+
+.yellow {
+    grid-area: amarelo;
+    background-color: yellow;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 4;
+    grid-row-end: 6;
+    border-radius: 20px;
+}
+
+.green {
+    grid-area: verde;
+    background-color: green;
+    grid-column-start: 5;
+    grid-column-end: 8;
+    grid-row-start: 4;
+    grid-row-end: 6;
+    border-radius: 20px;
+}
+
+.orange {
+    grid-area: laranja;
+    background-color: orange;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 7;
+    grid-row-end: 9;
+    border-radius: 20px;
+}
+.purple {
+    grid-area: roxo;
+    background-color: purple;
+    grid-column-start: 5;
+    grid-column-end: 8;
+    grid-row-start: 7;
+    grid-row-end: 9;
+    border-radius: 20px;
+}
+.selected {
+    opacity: 0.3;
+}

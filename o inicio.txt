@@ -30,7 +30,9 @@ Estou fazendo três Bootcamp -  MRV Fullstack Developer
     • 10/01/2022 Introdução a criação de websites com HTML5 e CSS3
     • 13/01/2022 Desenvolvimento avançado com JavaScript ES6
     • 14/01/2022 Introdução ao TypeScript
-    • 17/01/2022 Jogo memoria estilo genius	
+    • 17/01/2022 Jogo memoria estilo genius
+    • 18/01/2020 Introdução ao ReactJS
+    • 19/01/2020 Trabalhando com Componentes em React
 
 
 

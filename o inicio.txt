@@ -31,8 +31,14 @@ Estou fazendo três Bootcamp -  MRV Fullstack Developer
     • 13/01/2022 Desenvolvimento avançado com JavaScript ES6
     • 14/01/2022 Introdução ao TypeScript
     • 17/01/2022 Jogo memoria estilo genius
-    • 18/01/2020 Introdução ao ReactJS
-    • 19/01/2020 Trabalhando com Componentes em React
+    • 18/01/2022 Introdução ao ReactJS
+    • 19/01/2022 Trabalhando com Componentes em React
+    • 20/01/2022 Desenvolvimento de aplicações para internet com ReactJS
+    • 21/01/2022 Práticas avançadas em projetos com ReactJS
+    • 21/01/2022 Introdução aos React Hooks
+    • 23/01/2022 Criando aplicações móveis multiplataforma com React Native
+    • 26/01/2022 MySql - Trabalhando com as suas primeiras tabelas
+
 
 
 

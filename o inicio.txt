@@ -38,6 +38,8 @@ Estou fazendo três Bootcamp -  MRV Fullstack Developer
     • 21/01/2022 Introdução aos React Hooks
     • 23/01/2022 Criando aplicações móveis multiplataforma com React Native
     • 26/01/2022 MySql - Trabalhando com as suas primeiras tabelas
+    • 26/01/2022 Introdução ao MongoDB e Bancos de Dados NoSQL
+
 
 
 

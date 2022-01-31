@@ -40,6 +40,15 @@ Estou fazendo três Bootcamp -  MRV Fullstack Developer
     • 26/01/2022 MySql - Trabalhando com as suas primeiras tabelas
     • 26/01/2022 Introdução ao MongoDB e Bancos de Dados NoSQL
     • 27/01/2022 Introdução ao Node.js com JavaScript
+    • 27/01/2022 Explorando o Estilo Arquitetural REST com Node.js
+    • 27/01/2022 Node.js com Bancos de Dados Relacionais (SQL)
+    • 28/01/2022 Microsserviços e Integrações com Node.js
+    • 29/01/2022 Fundamentos de Arquitetura de Sistemas
+    • 29/01/2022 Introdução a orquestração de contêineres com Docker
+    • 29/01/2022 Introdução prática a computação em nuvem usando AWS
+    • 31/01/2022 Construindo páginas para internet com Bootstrap	
+
+
 
 
 

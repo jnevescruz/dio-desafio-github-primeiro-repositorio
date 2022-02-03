@@ -47,6 +47,9 @@ Estou fazendo três Bootcamp -  MRV Fullstack Developer
     • 29/01/2022 Introdução a orquestração de contêineres com Docker
     • 29/01/2022 Introdução prática a computação em nuvem usando AWS
     • 31/01/2022 Construindo páginas para internet com Bootstrap	
+    • 01/02/2022 Introdução ao JavaScript
+    • 02/02/2022 Sintaxe Básica em JavaScript
+
 
 
 

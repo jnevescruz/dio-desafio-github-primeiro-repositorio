@@ -52,6 +52,8 @@ Estou fazendo três Bootcamp -  MRV Fullstack Developer
     • 03/02/2022 Variáveis e Tipos em JS
     • 03/02/2022 Funções em JS
     • 04/02/2022 Debugging e Error Handling em JS
+    • 06/02/2022 SQL SERVER - Criando suas primeiras consultas
+
 
 
 

@@ -5,7 +5,7 @@ import Cart from './Cart';
 
 const Header = () => {
     return(
-        <Grid container direction="row" justify="space-between" alignItems="center" xs={12}>
+        <Grid container direction="row"  justify="space-between" alignItems="center" xs={12}>
             <Typography variant='h3'>
                 Dio Shopping
             </Typography>
@@ -16,7 +16,7 @@ const Header = () => {
                 <Button color="primary">Contato</Button>
             </Link>
             <Cart />   
-
+ 
             
         </Grid>
     )

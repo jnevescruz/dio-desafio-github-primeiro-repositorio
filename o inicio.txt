@@ -56,6 +56,7 @@ Estou fazendo três Bootcamp -  MRV Fullstack Developer
     • 07/02/2022 Modelando um banco de dados na prática com SQL SERVER
     • 08/02/2022 Trabalhando com States & Effects no ReactJs
     • 08/02/2022 Introdução a APIs e métodos HTTP
+    • 14/02/2022 Construindo o seu primeiro jogo de naves JS/JSQ
 
 
 

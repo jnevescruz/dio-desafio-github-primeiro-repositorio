@@ -59,7 +59,8 @@ Estou fazendo três Bootcamp -  MRV Fullstack Developer
     • 14/02/2022 Construindo o seu primeiro jogo de naves JS/JSQ
     • 16/02/2022 Introdução ao C# e .NET
     • 18/02/2022 Programando com Orientação a Objeto com C#
-
+    • 22/02/2022 Construtores, Propriedades, Delegates e Eventos em .NET
+    • 25/02/2022 Fundamentos de Coleções e LINQ com .NET
 
 
 

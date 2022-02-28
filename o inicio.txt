@@ -61,6 +61,8 @@ Estou fazendo três Bootcamp -  MRV Fullstack Developer
     • 18/02/2022 Programando com Orientação a Objeto com C#
     • 22/02/2022 Construtores, Propriedades, Delegates e Eventos em .NET
     • 25/02/2022 Fundamentos de Coleções e LINQ com .NET
+    • 26/02/2022 Introdução a microsserviços com .NET
+    • 28/02/2022Introdução a Design Patterns com .NET
 
 
 

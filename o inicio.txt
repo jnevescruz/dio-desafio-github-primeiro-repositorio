@@ -64,6 +64,10 @@ Estou fazendo três Bootcamp -  MRV Fullstack Developer
     • 26/02/2022 Introdução a microsserviços com .NET
     • 28/02/2022 Introdução a Design Patterns com .NET
 
+Bootcamp  GFT Quality Assurance #1
+
+	• 04/03/2022 Dominando IDEs Java
+
 
 
 

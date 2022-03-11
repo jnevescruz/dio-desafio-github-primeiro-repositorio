@@ -67,6 +67,10 @@ Estou fazendo três Bootcamp -  MRV Fullstack Developer
 Bootcamp  GFT Quality Assurance #1
 
 	• 04/03/2022 Dominando IDEs Java
+	• 04/03/2022 Variáveis, Tipos de Dados e Operadores Matemáticos em Java
+	• 08/03/2022 Lógica Condicional e Controle de Fluxos em Java
+	• 10/03/2022 Estruturas de Repetição e Arrays em Java
+	• 11/03/2022Reforçando o Conceito de Laços em Java
 
 
 

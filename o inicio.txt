@@ -72,6 +72,9 @@ Bootcamp  GFT Quality Assurance #1
 	• 10/03/2022 Estruturas de Repetição e Arrays em Java
 	• 11/03/2022 Reforçando o Conceito de Laços em Java
 	• 12/03/2022 Introdução a orientação a objetos com Java
+      • 15/03/2022 Debugging Java
+	• 16/03/2022 Tratamento de Exceções em Java
+	• 19/03/2022 Trabalhando com Collections Java
 
 
 

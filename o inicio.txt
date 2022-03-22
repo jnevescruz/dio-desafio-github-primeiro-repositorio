@@ -75,6 +75,7 @@ Bootcamp  GFT Quality Assurance #1
       • 15/03/2022 Debugging Java
 	• 16/03/2022 Tratamento de Exceções em Java
 	• 19/03/2022 Trabalhando com Collections Java
+	• 19/03/2022 Introdução ao Mercado de Qualidade de Software
 
 
 

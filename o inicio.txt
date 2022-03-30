@@ -82,7 +82,7 @@ Bootcamp  GFT Quality Assurance #1
 
 Bootcamp Órbi Web Games Developer
 	• 28/03/2022 Pensamento Computacional
-
+ 	• 29/03/2022 Primeiros passos para desenvolvimento web
 
 
 

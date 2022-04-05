@@ -84,6 +84,8 @@ Bootcamp Órbi Web Games Developer
 	• 28/03/2022 Pensamento Computacional
  	• 29/03/2022 Primeiros passos para desenvolvimento web
 	• 30/03/2022 Criando Jogo da Velha c HTML,CSS,JS
+	• 04/04/2022 Criando seu jogo no estilo Space Shooter
+      • 05/04/2022 Recriando o famoso jogo do dinossauro sem internet
 
 
 

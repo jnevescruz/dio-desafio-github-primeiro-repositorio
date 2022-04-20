@@ -87,7 +87,8 @@ Bootcamp Órbi Web Games Developer
 	• 04/04/2022 Criando seu jogo no estilo Space Shooter
       • 05/04/2022 Recriando o famoso jogo do dinossauro sem internet
 
-
+Carrefour Web Developer
+  • 12/04/2022 Introdução a Redux com ReactJS
 
 
  

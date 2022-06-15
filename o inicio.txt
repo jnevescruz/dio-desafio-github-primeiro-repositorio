@@ -97,5 +97,7 @@ Carrefour Web Developer
  
 Santander Bootcamp Mobile Developer
   • 08/06/2022 Introdução ao Kotlin
+  • 13/06/2022 Fundamentos de Orientação a Objetos com Kotlin
+  • 15/06/2022 Aplicando Conceitos de Coleções, Arrays e Listas
 
 

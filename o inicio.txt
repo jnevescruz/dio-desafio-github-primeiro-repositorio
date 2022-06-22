@@ -99,5 +99,5 @@ Santander Bootcamp Mobile Developer
   • 08/06/2022 Introdução ao Kotlin
   • 13/06/2022 Fundamentos de Orientação a Objetos com Kotlin
   • 15/06/2022 Aplicando Conceitos de Coleções, Arrays e Listas
-  • 16/06/2022Desenvolvimento Mobile Nativo Para Android
-
+  • 16/06/2022 Desenvolvimento Mobile Nativo Para Android
+  • 22/06/2022 Componentes, Layouts e UI/UX Em Apps Android

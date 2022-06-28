@@ -101,3 +101,6 @@ Santander Bootcamp Mobile Developer
   • 15/06/2022 Aplicando Conceitos de Coleções, Arrays e Listas
   • 16/06/2022 Desenvolvimento Mobile Nativo Para Android
   • 22/06/2022 Componentes, Layouts e UI/UX Em Apps Android
+  • 27/06/2022 Java e Kotlin Juntos!? Construindo Apps Android
+  • 28/06/2022 Explorando o Firebase Para Apps Android Resilientes
+  • 28/06/2022 Desmistificando o Android Studio na Prática

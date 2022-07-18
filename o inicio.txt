@@ -104,3 +104,9 @@ Santander Bootcamp Mobile Developer
   • 27/06/2022 Java e Kotlin Juntos!? Construindo Apps Android
   • 28/06/2022 Explorando o Firebase Para Apps Android Resilientes
   • 28/06/2022 Desmistificando o Android Studio na Prática
+  • 05/07/2022 Projetando o Primeiro Aplicativo Android Usando Kotlin
+  • 08/07/2022 Melhores Práticas para Debugging, Tratamento de Erros e Exceções
+  • 15/07/2022 Utilizando Recursos Nativos do Android
+  • 18/07/2022 Introdução a Arquitetura da Plataforma Android com Kotlin
+
+

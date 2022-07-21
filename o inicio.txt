@@ -108,5 +108,7 @@ Santander Bootcamp Mobile Developer
   • 08/07/2022 Melhores Práticas para Debugging, Tratamento de Erros e Exceções
   • 15/07/2022 Utilizando Recursos Nativos do Android
   • 18/07/2022 Introdução a Arquitetura da Plataforma Android com Kotlin
+  • 19/07/2022 Princípios do Desenvolvimento Kotlin com Clean Architecture e MVVM
+  • 20/07/2022Aplicando TDD e Padrões de Testes no Desenvolvimento de Aplicativos Android
 
 
